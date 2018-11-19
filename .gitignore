@@ -1,0 +1,10 @@
+.idea
+.svn
+.vs
+bin
+packages
+TestResults
+*.htm
+*.ide
+*.suo
+.gitattributes
