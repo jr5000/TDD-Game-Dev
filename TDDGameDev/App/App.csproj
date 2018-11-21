@@ -43,9 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ebo.cs" />
+    <Compile Include="EboArgs.cs" />
+    <Compile Include="Factory.cs" />
     <Compile Include="GlClear.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quad.cs" />
+    <Compile Include="QuadRenderer.cs" />
     <Compile Include="Renderer.cs" />
+    <Compile Include="Vao.cs" />
+    <Compile Include="VaoArgs.cs" />
+    <Compile Include="Vbo.cs" />
+    <Compile Include="VboArgs.cs" />
+    <Compile Include="VboRenderer.cs" />
     <Compile Include="Window.cs" />
   </ItemGroup>
   <ItemGroup>

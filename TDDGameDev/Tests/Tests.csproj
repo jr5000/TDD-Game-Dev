@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FakeVertex.cs" />
+    <Compile Include="QuadRendererTest.cs" />
     <Compile Include="WindowSpy.cs" />
     <Compile Include="WindowTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
